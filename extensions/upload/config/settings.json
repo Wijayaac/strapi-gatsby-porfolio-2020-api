@@ -1,0 +1,8 @@
+{
+  "provider": "cloudinary",
+  "providerOptions": {
+    "cloud_name": "portfolio-wij",
+    "api_key": "241493727845656",
+    "api_secret": "WFcNstO1jNUpmpXS2jiPHf-90Xo"
+  }
+}
